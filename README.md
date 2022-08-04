@@ -2,4 +2,4 @@
 
 - I love Go.
 
-(The Go gopher)[https://go.dev/blog/gopher] was designed by (Renée French.)[http://reneefrench.blogspot.com/]
+[The Go gopher](https://go.dev/blog/gopher) was designed by [Renée French.](http://reneefrench.blogspot.com/)
